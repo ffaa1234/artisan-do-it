@@ -2,9 +2,9 @@
 
 namespace Ffaa1234\ArtisanDoIt\Tests;
 
+use Ffaa1234\ArtisanDoIt\ArtisanDoItServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Ffaa1234\ArtisanDoIt\ArtisanDoItServiceProvider;
 
 class TestCase extends Orchestra
 {

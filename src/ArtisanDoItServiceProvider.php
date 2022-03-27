@@ -2,9 +2,9 @@
 
 namespace Ffaa1234\ArtisanDoIt;
 
+use Ffaa1234\ArtisanDoIt\Commands\ArtisanDoItCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Ffaa1234\ArtisanDoIt\Commands\ArtisanDoItCommand;
 
 class ArtisanDoItServiceProvider extends PackageServiceProvider
 {
